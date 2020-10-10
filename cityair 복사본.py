@@ -37,3 +37,5 @@ for score in scores:
         # regularTeamRecordList_table > tr:nth-child(1) > th > strong
         # regularTeamRecordList_table > tr:nth-child(1) > td.tm > div > img
         # #regularTeamRecordList_table > tr:nth-child(1) > td:nth-child(7) > strong
+
+        ##dddd
