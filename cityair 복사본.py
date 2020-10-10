@@ -39,3 +39,4 @@ for score in scores:
         # #regularTeamRecordList_table > tr:nth-child(1) > td:nth-child(7) > strong
 
         ##dddd
+        #####ddd
